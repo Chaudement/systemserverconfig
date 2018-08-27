@@ -1,0 +1,8 @@
+##配置系统管理的服务名称
+spring
+    application
+        name:system
+       
+##配置系统管理的服务端口号
+server
+    port:80
